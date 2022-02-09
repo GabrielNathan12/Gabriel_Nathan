@@ -10,10 +10,10 @@ void MC2(){
 }
 
 int main(){
-   string A1;
-   int A2;
+   string C1;
+   int C2;
    
-   cin >> A1 >> A2;
+   cin >> C1 >> C2;
    MC1();
 	cout << " ";
    MC2();
