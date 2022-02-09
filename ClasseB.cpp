@@ -10,6 +10,10 @@ void MB2(){
   cout << "MB2";
 }
 
+void MB3(){
+  cout << "MB3";
+}
+
 int main(){
   int B1;
   float B2;
@@ -17,5 +21,8 @@ int main(){
   MB1();
   cout << " ";
   MB2();
+  cout << " ";
+  MB3();
+
   return 0;
 }
