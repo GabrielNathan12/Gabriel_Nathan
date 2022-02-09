@@ -23,7 +23,7 @@ int main(){
     cin >> D1 >> D2;
 
     cout << MD1(D1) << " " << MD2(D2) << " ";
-  //  MD3();
+    MD3();
     cout << " ";
     MD4();
 }
