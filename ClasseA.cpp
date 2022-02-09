@@ -23,6 +23,6 @@ int main(){
    MA2();
 	cout << endl;
    MA3();
-   
+
 return 0;
 }
