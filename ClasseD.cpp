@@ -9,9 +9,9 @@ double MD2(double D2){
     return D2;
 }
 
-//void MD3(){
-  //  cout << "MD3";
-//}
+void MD3(){
+    cout << "MD3";
+}
 
 void MD4(){
     cout << "MD4";
